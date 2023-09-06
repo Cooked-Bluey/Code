@@ -2,7 +2,7 @@
 <html>
 
     <head>
-        <title>My First App</title>
+        <title>Leader Cabling DB</title>
         <link type="text/css" href="static/style.css" rel="stylesheet">
 
     </head>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Fuel Watch Database</title>
+        <title>Leader Cabling DB</title>
         <link type="text/css" href="/static/main_style.css" rel="stylesheet">
     </head>
 
